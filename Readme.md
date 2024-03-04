@@ -45,4 +45,4 @@
 
 ## credits 
 
-[yukki bot](https://github.com/YukkiBot/YukkiMultiSpamBot)
+[yukki bot](https://github.com/deviladarsh5/YukkiMultiSpamBot)
